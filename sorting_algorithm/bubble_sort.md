@@ -1,6 +1,6 @@
 #冒泡排序
 ------
-```
+```python
 def bubble_sort(arr):
     arr_len = len(arr)
     for i in range(0, arr_len-1):
